@@ -1,0 +1,47 @@
+_repo: The-Iliad_6150
+contributor:
+  translator:
+    agent_name: Derby, Edward George Geoffrey Smith Stanley, Earl of
+    aliases:
+    - Stanley, Edward George Geoffrey Smith, Earl of Derby
+    - Stanley, E. G. S. (Edward G. Smith)
+    birthdate: 1799
+    deathdate: 1869
+    gutenberg_agent_id: '1976'
+    url: http://www.gutenberg.org/2009/agents/1976
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Smith-Stanley%2C_14th_Earl_of_Derby
+creator:
+  author:
+    agent_name: Homer
+    alias: Όμηρος
+    birthdate: -750
+    deathdate: -650
+    gutenberg_agent_id: '705'
+    url: http://www.gutenberg.org/2009/agents/705
+    wikipedia: http://en.wikipedia.org/wiki/Homer
+description: One of the foremost achievements in Western literature, Homer's Iliad
+  tells the story of the darkest episode in the Trojan War. At its centre is Achilles,
+  the greatest warrior-champion of the Greeks, and his refusal to fight after being
+  humiliated by his leader Agamemnon. But when the Trojan Hector kills Achilles' close
+  friend Patroclus, he storms back into battle to take revenge - although knowing
+  this will ensure his won early death. Interwoven with this tragic sequence of events
+  are powerfully moving descriptions of the ebb and flow of battle, of the domestic
+  world inside Troy's besieged city of llium and of the conflicts between the gods
+  on Olympus as they argue over the fate of mortals.-Back cover.
+gutenberg_bookshelf: Classical Antiquity
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6150'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Achilles (Mythological character) -- Poetry'
+- !lcsh 'Trojan War -- Poetry'
+- !lcsh 'Classical literature'
+- !lcsh 'Epic poetry, Greek -- Translations into English'
+title: The Iliad
+url: http://www.gutenberg.org/ebooks/6150
